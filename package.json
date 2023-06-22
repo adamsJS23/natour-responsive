@@ -1,14 +1,22 @@
 {
-  "name": "natours",
+  "name": "natour-responsive",
   "version": "1.0.0",
-  "description": "Landing page for natours",
-  "main": "index.js",
+  "description": "Landing page for natour website",
+  "main": "index.html",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jonas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamsJS23/natour-responsive.git"
+  },
+  "author": "Guebre adama",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamsJS23/natour-responsive/issues"
+  },
+  "homepage": "https://github.com/adamsJS23/natour-responsive#readme",
   "devDependencies": {
-    "node-sass": "^4.5.3"
+    "node-sass": "^9.0.0"
   }
 }
