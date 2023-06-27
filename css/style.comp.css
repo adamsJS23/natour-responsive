@@ -459,14 +459,7 @@ body {
   width: 90%;
   display: block;
   transition: all .3s; }
-<<<<<<< HEAD
-  @media (max-width: 75em) {
-    .form__input {
-      width: 60%; } }
-  @media (max-width: 56.25em) {
-=======
   @media only screen and (max-width: 56.25em) {
->>>>>>> develop
     .form__input {
       width: 100%; } }
   .form__input:focus {
@@ -494,14 +487,7 @@ body {
 .form__radio-group {
   width: 49%;
   display: inline-block; }
-<<<<<<< HEAD
-  @media (max-width: 75em) {
-    .form__radio-group {
-      width: 25%; } }
-  @media (max-width: 56.25em) {
-=======
   @media only screen and (max-width: 56.25em) {
->>>>>>> develop
     .form__radio-group {
       width: 100%;
       margin-bottom: 2rem; } }
